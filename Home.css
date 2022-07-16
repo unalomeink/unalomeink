@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("a.png?rand=72b5");
+  background-image: url("images/a.png?rand=72b5");
   background-position: 50% 50%;
 }
 
@@ -809,17 +809,17 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 100vh;
+  min-height: 921px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 109px auto 0;
+  margin: 103px auto 0;
 }
 
 .u-section-4 .u-gallery-1 {
   width: 700px;
-  height: 500px;
-  margin: 16px auto 57px;
+  height: 700px;
+  margin: 22px auto 57px;
 }
 
 .u-section-4 .u-carousel-indicators-1 {
@@ -872,6 +872,22 @@
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
 }
 
+.u-section-4 .u-carousel-item-6 {
+  margin-right: 0;
+}
+
+.u-section-4 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+}
+
+.u-section-4 .u-carousel-item-7 {
+  margin-right: 0;
+}
+
+.u-section-4 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+}
+
 .u-section-4 .u-carousel-control-1 {
   position: absolute;
   left: -81px;
@@ -889,6 +905,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 783px;
+  }
+
   .u-section-4 .u-text-1 {
     width: auto;
     margin-top: 87px;
@@ -896,7 +916,9 @@
 
   .u-section-4 .u-gallery-1 {
     width: 500px;
+    height: 500px;
     margin-top: 17px;
+    margin-bottom: 60px;
   }
 
   .u-section-4 .u-carousel-item-1 {
@@ -937,15 +959,37 @@
   }
 }
 
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 726px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 30px;
+  }
+}
+
 @media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 761px;
+  }
+
   .u-section-4 .u-text-1 {
     margin-top: 65px;
+  }
+
+  .u-section-4 .u-gallery-1 {
+    height: 540px;
   }
 }
 
 @media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 561px;
+  }
+
   .u-section-4 .u-text-1 {
-    margin-top: 60px;
+    margin-top: 30px;
   }
 
   .u-section-4 .u-gallery-1 {
@@ -1548,7 +1592,7 @@
     margin-right: 90px;
   }
 } .u-section-7 {
-  background-image: url("gbde73744c5cf865e86fd9e7268081082868d45f07dad5233920cad60ddee764838482efaf385c245748eb77f3c3fb80dcc7bba48367baaa878c7a96b8e816d4c_1280.jpg");
+  background-image: url("images/gbde73744c5cf865e86fd9e7268081082868d45f07dad5233920cad60ddee764838482efaf385c245748eb77f3c3fb80dcc7bba48367baaa878c7a96b8e816d4c_1280.jpg");
   background-position: 50% 50%;
 }
 
